@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "319684904942",
+    "firebase_url": "https://sandbox-17072-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sandbox-17072",
+    "storage_bucket": "sandbox-17072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319684904942:android:c39d1d7eca26daa161f0ff",
+        "android_client_info": {
+          "package_name": "tech.neurothrone.firebaseitemlistsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSfK6jCS98gNpTEgGLc79KC2UbCtqxMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319684904942:android:1e0926396aab981e61f0ff",
+        "android_client_info": {
+          "package_name": "tech.neurothrone.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319684904942-48hhhls7i2k9fks29r8a4np59o83cgr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.neurothrone.firebasesample",
+            "certificate_hash": "c1ee6ca292692997e0106ceb42bc4b78e295a68d"
+          }
+        },
+        {
+          "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSfK6jCS98gNpTEgGLc79KC2UbCtqxMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319684904942:android:dfd82a075980493661f0ff",
+        "android_client_info": {
+          "package_name": "tech.neurothrone.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319684904942-hq1v2mtljubp5n29dq7gajjdsmqhbg4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.neurothrone.recipeapp",
+            "certificate_hash": "c1ee6ca292692997e0106ceb42bc4b78e295a68d"
+          }
+        },
+        {
+          "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSfK6jCS98gNpTEgGLc79KC2UbCtqxMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319684904942-0285s6nc9q50ddeassqek0cop6t2h3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
