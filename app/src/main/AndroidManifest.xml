@@ -3,6 +3,18 @@
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools">
   
+  <!-- !: If you use android.hardware.camera without .any, it will not work if you have a device
+        without a back camera, such as most Chromebooks. The second line adds the permission
+        to access that camera.
+-->
+  <uses-feature android:name="android.hardware.camera.any" />
+  
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission
+    android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+    android:maxSdkVersion="28" />
+  
   <application
     android:allowBackup="true"
     android:dataExtractionRules="@xml/data_extraction_rules"
